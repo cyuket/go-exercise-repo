@@ -42,7 +42,7 @@ Create a simple Golang HTTP server that listens on port 8080. It should respond 
 
 design  Go backend service that, 
 - Uses A payment provider(Flutterwave)to handle payment or card creation 
-- ⁠uses Skeller Blockchian to create wallet Address 
+- ⁠uses Steller Blockchian to create wallet Address 
 
 ## Section 4: Testing
 ### Unit Testing:
