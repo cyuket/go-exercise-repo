@@ -38,9 +38,11 @@ Implement a program that uses channels to simulate a simple producer-consumer sc
 
 Create a simple Golang HTTP server that listens on port 8080. It should respond with "Hello, World!" for any incoming request.
 
-### REST API:
+### Services:
 
-Design and implement a basic RESTful API for a todo list. Include operations to create, read, update, and delete tasks. Use in-memory storage for simplicity.
+design  Go backend service that, 
+- Uses A payment provider(Flutterwave)to handle payment or card creation 
+- ⁠uses Skeller Blockchian to create wallet Address 
 
 ## Section 4: Testing
 ### Unit Testing:
